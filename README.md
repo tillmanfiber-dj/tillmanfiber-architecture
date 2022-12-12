@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tillmanfiber-dj
 - 👀 I’m interested in efficient algorithms
-- 🌱 I’m constantly earning
+- 🌱 I’m constantly learning
 - 💞️ I’m looking to collaborate on AI/ML based code generation
 - 📫 How to reach me : djanardhanan@tillmanfiber.com
 
